@@ -1,0 +1,14 @@
+Projectile : "{EEF8495A9A6787A6}Prefabs/Weapons/Core/Ammo_MortarShell_Base.et" {
+ ID "5098E3DEA78F878B"
+ components {
+  SCR_MortarShellGadgetComponent "{60AC94402A1A228B}" {
+   m_aChargeRingConfig {
+    0 1 0 1 1.795 0 2 2.443 0 3 3.042 0 4 3.731 1
+   }
+  }
+  ShellMoveComponent "{5098E3DEA78F87A3}" {
+   BallisticTableConfig "{09F782052ED4B76F}Configs/Weapons/Ammo/AM_M_O832DU_Shell_82mm_HE.conf"
+   BallisticTableGenerationConfig "{974C1A464B0F35E2}Configs/Weapons/Ammo/AM_M_MortarBallisticTableGeneratorConfig_O832DU.conf"
+  }
+ }
+}

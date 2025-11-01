@@ -1,0 +1,114 @@
+GameEntity : "{35D7F1189BE00E94}Prefabs/Items/Equipment/BalisticTable/BalisticTable.et" {
+ ID "508AB2013EEE1E00"
+ components {
+  SCR_BallisticTableComponent "{60CAB3ECC903C006}" {
+   m_aBallisticPages {
+    SCR_VisualisedBallisticConfig "{629CFEC0DD717B7F}" : "{B04D8DB14D712327}Prefabs/Items/Equipment/BalisticTable/Configs/ExtendedBallisticConfig_O832DU_HE.conf" {
+     m_sDisplayedText "ТАБЛИЦЫ СТРЕЛЬБЫ ОСКОЛОЧНАЯ ДЕСЯТИПЁРАЯ МИHА О-832ДУ (4 - ДАЛЬНОБОЙНЫЙ)"
+     m_fProjectileInitSpeedCoef 3.731
+     m_fStandardDispersion 55
+     m_iMinRange 600
+     m_iMaxRange 3200
+    }
+    SCR_VisualisedBallisticConfig "{629CFEC0D2BCE86A}" : "{B04D8DB14D712327}Prefabs/Items/Equipment/BalisticTable/Configs/ExtendedBallisticConfig_O832DU_HE.conf" {
+     m_sDisplayedText "ТАБЛИЦЫ СТРЕЛЬБЫ ОСКОЛОЧНАЯ ДЕСЯТИПЁРАЯ МИHА О-832ДУ (4 - ДАЛЬНОБОЙНЫЙ)"
+     m_fProjectileInitSpeedCoef 3.731
+     m_fStandardDispersion 55
+     m_iMinRange 3300
+     m_iMaxRange 3950
+    }
+    SCR_VisualisedBallisticConfig "{629CFEC0D3C073C1}" : "{B04D8DB14D712327}Prefabs/Items/Equipment/BalisticTable/Configs/ExtendedBallisticConfig_O832DU_HE.conf" {
+     m_sDisplayedText "ТАБЛИЦЫ СТРЕЛЬБЫ ОСКОЛОЧНАЯ ДЕСЯТИПЁРАЯ МИHА О-832ДУ (3 - ТРЕТИЙ)"
+     m_fProjectileInitSpeedCoef 3.042
+     m_fStandardDispersion 44
+     m_iMinRange 400
+     m_iMaxRange 3100
+    }
+    SCR_VisualisedBallisticConfig "{629CFEC0D35576AD}" : "{B04D8DB14D712327}Prefabs/Items/Equipment/BalisticTable/Configs/ExtendedBallisticConfig_O832DU_HE.conf" {
+     m_sDisplayedText "ТАБЛИЦЫ СТРЕЛЬБЫ ОСКОЛОЧНАЯ ДЕСЯТИПЁРАЯ МИHА О-832ДУ (2 - ВТОРОЙ)"
+     m_fProjectileInitSpeedCoef 2.443
+     m_fStandardDispersion 33
+     m_iMinRange 300
+     m_iMaxRange 2350
+    }
+    SCR_VisualisedBallisticConfig "{61507C00465CC82E}" : "{B04D8DB14D712327}Prefabs/Items/Equipment/BalisticTable/Configs/ExtendedBallisticConfig_O832DU_HE.conf" {
+     m_sDisplayedText "ТАБЛИЦЫ СТРЕЛЬБЫ ОСКОЛОЧНАЯ ДЕСЯТИПЁРАЯ МИHА О-832ДУ (1 - ПЕРВЫЙ)"
+     m_fProjectileInitSpeedCoef 1.795
+     m_fStandardDispersion 21
+     m_iMinRange 200
+     m_iMaxRange 1500
+    }
+    SCR_VisualisedBallisticConfig "{61507C00458D6B78}" : "{B04D8DB14D712327}Prefabs/Items/Equipment/BalisticTable/Configs/ExtendedBallisticConfig_O832DU_HE.conf" {
+     m_sDisplayedText "ТАБЛИЦЫ СТРЕЛЬБЫ ОСКОЛОЧНАЯ ДЕСЯТИПЁРАЯ МИHА О-832ДУ (0 - ОСНОВНОЙ)"
+     m_iRangeStep 50
+     m_fStandardDispersion 13
+     m_iMinRange 50
+     m_iMaxRange 600
+    }
+    SCR_VisualisedBallisticConfig "{62A2874F003E4BD3}" : "{8AC6B2FC9A3B9E10}Prefabs/Items/Equipment/BalisticTable/Configs/ExtendedBallisticConfig_D832DU_Smoke.conf" {
+     m_sDisplayedText "ТАБЛИЦЫ СТРЕЛЬБЫ ДЫМОВАЯ ДЕСЯТИПЁРАЯ МИHА Д-832ДУ (4 - ДАЛЬНОБОЙНЫЙ)"
+     m_fProjectileInitSpeedCoef 2.981
+     m_fStandardDispersion 40
+     m_iMinRange 400
+     m_iMaxRange 2850
+    }
+    SCR_VisualisedBallisticConfig "{62A2874F06C80807}" : "{8AC6B2FC9A3B9E10}Prefabs/Items/Equipment/BalisticTable/Configs/ExtendedBallisticConfig_D832DU_Smoke.conf" {
+     m_sDisplayedText "ТАБЛИЦЫ СТРЕЛЬБЫ ДЫМОВАЯ ДЕСЯТИПЁРАЯ МИHА Д-832ДУ (3 - ТРЕТИЙ)"
+     m_fProjectileInitSpeedCoef 2.428
+     m_fStandardDispersion 30
+     m_iMinRange 300
+     m_iMaxRange 2150
+    }
+    SCR_VisualisedBallisticConfig "{62A2874F060F0C47}" : "{8AC6B2FC9A3B9E10}Prefabs/Items/Equipment/BalisticTable/Configs/ExtendedBallisticConfig_D832DU_Smoke.conf" {
+     m_sDisplayedText "ТАБЛИЦЫ СТРЕЛЬБЫ ДЫМОВАЯ ДЕСЯТИПЁРАЯ МИHА Д-832ДУ (2 - ВТОРОЙ)"
+     m_fProjectileInitSpeedCoef 1.806
+     m_fStandardDispersion 19
+     m_iMinRange 200
+     m_iMaxRange 1400
+    }
+    SCR_VisualisedBallisticConfig "{61507C005AE6B03C}" : "{8AC6B2FC9A3B9E10}Prefabs/Items/Equipment/BalisticTable/Configs/ExtendedBallisticConfig_D832DU_Smoke.conf" {
+     m_sDisplayedText "ТАБЛИЦЫ СТРЕЛЬБЫ ДЫМОВАЯ ДЕСЯТИПЁРАЯ МИHА Д-832ДУ (1 - ПЕРВЫЙ)"
+     m_iRangeStep 50
+     m_fStandardDispersion 12
+     m_iMinRange 50
+     m_iMaxRange 500
+    }
+    SCR_VisualisedBallisticConfig "{62A2874E8B4D9DED}" : "{F070F9138D07D59B}Prefabs/Items/Equipment/BalisticTable/Configs/ExtendedBallisticConfig_S832S_Illumination.conf" {
+     m_sDisplayedText "ТАБЛИЦЫ СТРЕЛЬБЫ ОСВЕТИТЕЛЬНАЯ ДЕСЯТИПЁРАЯ МИHА С-832С (4 - ДАЛЬНОБОЙНЫЙ)"
+     m_fProjectileInitSpeedCoef 5.181
+     m_fStandardDispersion 53
+     m_iMinRange 600
+     m_iMaxRange 3200
+    }
+    SCR_VisualisedBallisticConfig "{62A2874E8A6E46C2}" : "{F070F9138D07D59B}Prefabs/Items/Equipment/BalisticTable/Configs/ExtendedBallisticConfig_S832S_Illumination.conf" {
+     m_sDisplayedText "ТАБЛИЦЫ СТРЕЛЬБЫ ОСВЕТИТЕЛЬНАЯ ДЕСЯТИПЁРАЯ МИHА С-832С (4 - ДАЛЬНОБОЙНЫЙ)"
+     m_fProjectileInitSpeedCoef 5.181
+     m_fStandardDispersion 53
+     m_iMinRange 3300
+     m_iMaxRange 3750
+    }
+    SCR_VisualisedBallisticConfig "{62A2874EF569D8AA}" : "{F070F9138D07D59B}Prefabs/Items/Equipment/BalisticTable/Configs/ExtendedBallisticConfig_S832S_Illumination.conf" {
+     m_sDisplayedText "ТАБЛИЦЫ СТРЕЛЬБЫ ОСВЕТИТЕЛЬНАЯ ДЕСЯТИПЁРАЯ МИHА С-832С (3 - ТРЕТИЙ)"
+     m_fProjectileInitSpeedCoef 2.86
+     m_fStandardDispersion 39
+     m_iMinRange 400
+     m_iMaxRange 3750
+    }
+    SCR_VisualisedBallisticConfig "{65993B0AC960A4C6}" : "{F070F9138D07D59B}Prefabs/Items/Equipment/BalisticTable/Configs/ExtendedBallisticConfig_S832S_Illumination.conf" {
+     m_sDisplayedText "ТАБЛИЦЫ СТРЕЛЬБЫ ОСВЕТИТЕЛЬНАЯ ДЕСЯТИПЁРАЯ МИHА С-832С (2 - ВТОРОЙ)"
+     m_fProjectileInitSpeedCoef 1.809
+     m_fStandardDispersion 28
+     m_iMinRange 300
+     m_iMaxRange 1950
+    }
+    SCR_VisualisedBallisticConfig "{65993B0AC98DCBBB}" : "{F070F9138D07D59B}Prefabs/Items/Equipment/BalisticTable/Configs/ExtendedBallisticConfig_S832S_Illumination.conf" {
+     m_sDisplayedText "ТАБЛИЦЫ СТРЕЛЬБЫ ОСВЕТИТЕЛЬНАЯ ДЕСЯТИПЁРАЯ МИHА С-832С (1 - ПЕРВЫЙ)"
+     m_iRangeStep 50
+     m_fStandardDispersion 15
+     m_iMinRange 150
+     m_iMaxRange 1050
+    }
+   }
+  }
+ }
+}
