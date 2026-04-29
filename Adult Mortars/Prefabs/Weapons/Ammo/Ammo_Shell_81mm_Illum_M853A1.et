@@ -7,6 +7,8 @@ Projectile : "{EEF8495A9A6787A6}Prefabs/Weapons/Core/Ammo_MortarShell_Base.et" {
    }
   }
   ShellMoveComponent "{5098E3DEA78F87A3}" {
+   InitSpeedVariation 0.75
+   DispersionMultiplier 0.25
    BallisticTableConfig "{5140493CFD442AFE}Configs/Weapons/Ammo/AM_M_M853A1_Shell_81mm_Illumination.conf"
    BallisticTableGenerationConfig "{97F8C35FC61DC062}Configs/Weapons/Ammo/AM_M_MortarBallisticTableGeneratorConfig_M853A1.conf"
   }
